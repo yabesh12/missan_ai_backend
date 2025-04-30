@@ -1,0 +1,622 @@
+[
+    {
+        "label": "fileConfig",
+        "importPath": "logging.config",
+        "description": "logging.config",
+        "isExtraImport": true,
+        "detail": "logging.config",
+        "documentation": {}
+    },
+    {
+        "label": "engine_from_config",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "pool",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "DateTime",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "context",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "your models",
+        "importPath": "api_gateway.models import Base  #",
+        "description": "api_gateway.models import Base  #",
+        "isExtraImport": true,
+        "detail": "api_gateway.models import Base  #",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Form",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "importPath": "api_gateway.database",
+        "description": "api_gateway.database",
+        "isExtraImport": true,
+        "detail": "api_gateway.database",
+        "documentation": {}
+    },
+    {
+        "label": "Call",
+        "importPath": "api_gateway.models",
+        "description": "api_gateway.models",
+        "isExtraImport": true,
+        "detail": "api_gateway.models",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "call_routes",
+        "importPath": "api_gateway.routes",
+        "description": "api_gateway.routes",
+        "isExtraImport": true,
+        "detail": "api_gateway.routes",
+        "documentation": {}
+    },
+    {
+        "label": "OAuth2PasswordBearer",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "OAuth2PasswordBearer",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "httpx",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "httpx",
+        "description": "httpx",
+        "detail": "httpx",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.declarative",
+        "documentation": {}
+    },
+    {
+        "label": "uuid",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uuid",
+        "description": "uuid",
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "run_migrations_offline",
+        "kind": 2,
+        "importPath": "alembic.env",
+        "description": "alembic.env",
+        "peekOfCode": "def run_migrations_offline() -> None:\n    \"\"\"Run migrations in 'offline' mode.\n    This configures the context with just a URL\n    and not an Engine, though an Engine is acceptable\n    here as well.  By skipping the Engine creation\n    we don't even need a DBAPI to be available.\n    Calls to context.execute() here emit the given string to the\n    script output.\n    \"\"\"\n    url = config.get_main_option(\"sqlalchemy.url\")",
+        "detail": "alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "run_migrations_online",
+        "kind": 2,
+        "importPath": "alembic.env",
+        "description": "alembic.env",
+        "peekOfCode": "def run_migrations_online() -> None:\n    \"\"\"Run migrations in 'online' mode.\n    In this scenario we need to create an Engine\n    and associate a connection with the context.\n    \"\"\"\n    connectable = engine_from_config(\n        config.get_section(config.config_ini_section, {}),\n        prefix=\"sqlalchemy.\",\n        poolclass=pool.NullPool,\n    )",
+        "detail": "alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "kind": 5,
+        "importPath": "alembic.env",
+        "description": "alembic.env",
+        "peekOfCode": "config = context.config\n# Interpret the config file for Python logging.\n# This line sets up loggers basically.\nif config.config_file_name is not None:\n    fileConfig(config.config_file_name)\n# add your model's MetaData object here\n# for 'autogenerate' support\n# from myapp import mymodel\n# target_metadata = mymodel.Base.metadata\n# target_metadata = None",
+        "detail": "alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "target_metadata",
+        "kind": 5,
+        "importPath": "alembic.env",
+        "description": "alembic.env",
+        "peekOfCode": "target_metadata = Base.metadata\n# other values from the config, defined by the needs of env.py,\n# can be acquired:\n# my_important_option = config.get_main_option(\"my_important_option\")\n# ... etc.\ndef run_migrations_offline() -> None:\n    \"\"\"Run migrations in 'offline' mode.\n    This configures the context with just a URL\n    and not an Engine, though an Engine is acceptable\n    here as well.  By skipping the Engine creation",
+        "detail": "alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "api_gateway.routes.billing_routes",
+        "description": "api_gateway.routes.billing_routes",
+        "peekOfCode": "router = APIRouter()\n@router.get(\"/\")\nasync def get_billing_info():\n    return {\"message\": \"Billing info route working\"}",
+        "detail": "api_gateway.routes.billing_routes",
+        "documentation": {}
+    },
+    {
+        "label": "CallCreate",
+        "kind": 6,
+        "importPath": "api_gateway.routes.call_routes",
+        "description": "api_gateway.routes.call_routes",
+        "peekOfCode": "class CallCreate(BaseModel):\n    caller: str\n    receiver: str\n    timestamp: datetime\n    duration: int\nclass CallResponse(CallCreate):\n    id: str\n    class Config:\n        orm_mode = True\n@router.post(\"/\", response_model=CallResponse)",
+        "detail": "api_gateway.routes.call_routes",
+        "documentation": {}
+    },
+    {
+        "label": "CallResponse",
+        "kind": 6,
+        "importPath": "api_gateway.routes.call_routes",
+        "description": "api_gateway.routes.call_routes",
+        "peekOfCode": "class CallResponse(CallCreate):\n    id: str\n    class Config:\n        orm_mode = True\n@router.post(\"/\", response_model=CallResponse)\ndef create_call(call: CallCreate, db: Session = Depends(get_db)):\n    db_call = Call(**call.dict())\n    db.add(db_call)\n    db.commit()\n    db.refresh(db_call)",
+        "detail": "api_gateway.routes.call_routes",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "kind": 2,
+        "importPath": "api_gateway.routes.call_routes",
+        "description": "api_gateway.routes.call_routes",
+        "peekOfCode": "def get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()\nclass CallCreate(BaseModel):\n    caller: str\n    receiver: str\n    timestamp: datetime",
+        "detail": "api_gateway.routes.call_routes",
+        "documentation": {}
+    },
+    {
+        "label": "create_call",
+        "kind": 2,
+        "importPath": "api_gateway.routes.call_routes",
+        "description": "api_gateway.routes.call_routes",
+        "peekOfCode": "def create_call(call: CallCreate, db: Session = Depends(get_db)):\n    db_call = Call(**call.dict())\n    db.add(db_call)\n    db.commit()\n    db.refresh(db_call)\n    return db_call\n@router.get(\"/\", response_model=List[CallResponse])\ndef read_calls(db: Session = Depends(get_db)):\n    return db.query(Call).all()\n@router.get(\"/{call_id}\", response_model=CallResponse)",
+        "detail": "api_gateway.routes.call_routes",
+        "documentation": {}
+    },
+    {
+        "label": "read_calls",
+        "kind": 2,
+        "importPath": "api_gateway.routes.call_routes",
+        "description": "api_gateway.routes.call_routes",
+        "peekOfCode": "def read_calls(db: Session = Depends(get_db)):\n    return db.query(Call).all()\n@router.get(\"/{call_id}\", response_model=CallResponse)\ndef read_call(call_id: str, db: Session = Depends(get_db)):\n    call = db.query(Call).filter(Call.id == call_id).first()\n    if not call:\n        raise HTTPException(status_code=404, detail=\"Call not found\")\n    return call\n@router.delete(\"/{call_id}\")\ndef delete_call(call_id: str, db: Session = Depends(get_db)):",
+        "detail": "api_gateway.routes.call_routes",
+        "documentation": {}
+    },
+    {
+        "label": "read_call",
+        "kind": 2,
+        "importPath": "api_gateway.routes.call_routes",
+        "description": "api_gateway.routes.call_routes",
+        "peekOfCode": "def read_call(call_id: str, db: Session = Depends(get_db)):\n    call = db.query(Call).filter(Call.id == call_id).first()\n    if not call:\n        raise HTTPException(status_code=404, detail=\"Call not found\")\n    return call\n@router.delete(\"/{call_id}\")\ndef delete_call(call_id: str, db: Session = Depends(get_db)):\n    call = db.query(Call).filter(Call.id == call_id).first()\n    if not call:\n        raise HTTPException(status_code=404, detail=\"Call not found\")",
+        "detail": "api_gateway.routes.call_routes",
+        "documentation": {}
+    },
+    {
+        "label": "delete_call",
+        "kind": 2,
+        "importPath": "api_gateway.routes.call_routes",
+        "description": "api_gateway.routes.call_routes",
+        "peekOfCode": "def delete_call(call_id: str, db: Session = Depends(get_db)):\n    call = db.query(Call).filter(Call.id == call_id).first()\n    if not call:\n        raise HTTPException(status_code=404, detail=\"Call not found\")\n    db.delete(call)\n    db.commit()\n    return {\"detail\": \"Call deleted\"}",
+        "detail": "api_gateway.routes.call_routes",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "api_gateway.routes.call_routes",
+        "description": "api_gateway.routes.call_routes",
+        "peekOfCode": "router = APIRouter()\n# Dependency to get DB session\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()\nclass CallCreate(BaseModel):\n    caller: str",
+        "detail": "api_gateway.routes.call_routes",
+        "documentation": {}
+    },
+    {
+        "label": "POSTGRES_USER",
+        "kind": 5,
+        "importPath": "api_gateway.database",
+        "description": "api_gateway.database",
+        "peekOfCode": "POSTGRES_USER = os.getenv(\"POSTGRES_USER\", \"my_user\")\nPOSTGRES_PASSWORD = os.getenv(\"POSTGRES_PASSWORD\", \"my_password\")\nPOSTGRES_DB = os.getenv(\"POSTGRES_DB\", \"my_database\")\nPOSTGRES_HOST = os.getenv(\"POSTGRES_HOST\", \"localhost\")\nPOSTGRES_PORT = os.getenv(\"POSTGRES_PORT\", \"5432\")\nDATABASE_URL = f\"postgresql://{POSTGRES_USER}:{POSTGRES_PASSWORD}@{POSTGRES_HOST}:{POSTGRES_PORT}/{POSTGRES_DB}\"\nengine = create_engine(DATABASE_URL)\nSessionLocal = sessionmaker(bind=engine, autoflush=False, autocommit=False)",
+        "detail": "api_gateway.database",
+        "documentation": {}
+    },
+    {
+        "label": "POSTGRES_PASSWORD",
+        "kind": 5,
+        "importPath": "api_gateway.database",
+        "description": "api_gateway.database",
+        "peekOfCode": "POSTGRES_PASSWORD = os.getenv(\"POSTGRES_PASSWORD\", \"my_password\")\nPOSTGRES_DB = os.getenv(\"POSTGRES_DB\", \"my_database\")\nPOSTGRES_HOST = os.getenv(\"POSTGRES_HOST\", \"localhost\")\nPOSTGRES_PORT = os.getenv(\"POSTGRES_PORT\", \"5432\")\nDATABASE_URL = f\"postgresql://{POSTGRES_USER}:{POSTGRES_PASSWORD}@{POSTGRES_HOST}:{POSTGRES_PORT}/{POSTGRES_DB}\"\nengine = create_engine(DATABASE_URL)\nSessionLocal = sessionmaker(bind=engine, autoflush=False, autocommit=False)",
+        "detail": "api_gateway.database",
+        "documentation": {}
+    },
+    {
+        "label": "POSTGRES_DB",
+        "kind": 5,
+        "importPath": "api_gateway.database",
+        "description": "api_gateway.database",
+        "peekOfCode": "POSTGRES_DB = os.getenv(\"POSTGRES_DB\", \"my_database\")\nPOSTGRES_HOST = os.getenv(\"POSTGRES_HOST\", \"localhost\")\nPOSTGRES_PORT = os.getenv(\"POSTGRES_PORT\", \"5432\")\nDATABASE_URL = f\"postgresql://{POSTGRES_USER}:{POSTGRES_PASSWORD}@{POSTGRES_HOST}:{POSTGRES_PORT}/{POSTGRES_DB}\"\nengine = create_engine(DATABASE_URL)\nSessionLocal = sessionmaker(bind=engine, autoflush=False, autocommit=False)",
+        "detail": "api_gateway.database",
+        "documentation": {}
+    },
+    {
+        "label": "POSTGRES_HOST",
+        "kind": 5,
+        "importPath": "api_gateway.database",
+        "description": "api_gateway.database",
+        "peekOfCode": "POSTGRES_HOST = os.getenv(\"POSTGRES_HOST\", \"localhost\")\nPOSTGRES_PORT = os.getenv(\"POSTGRES_PORT\", \"5432\")\nDATABASE_URL = f\"postgresql://{POSTGRES_USER}:{POSTGRES_PASSWORD}@{POSTGRES_HOST}:{POSTGRES_PORT}/{POSTGRES_DB}\"\nengine = create_engine(DATABASE_URL)\nSessionLocal = sessionmaker(bind=engine, autoflush=False, autocommit=False)",
+        "detail": "api_gateway.database",
+        "documentation": {}
+    },
+    {
+        "label": "POSTGRES_PORT",
+        "kind": 5,
+        "importPath": "api_gateway.database",
+        "description": "api_gateway.database",
+        "peekOfCode": "POSTGRES_PORT = os.getenv(\"POSTGRES_PORT\", \"5432\")\nDATABASE_URL = f\"postgresql://{POSTGRES_USER}:{POSTGRES_PASSWORD}@{POSTGRES_HOST}:{POSTGRES_PORT}/{POSTGRES_DB}\"\nengine = create_engine(DATABASE_URL)\nSessionLocal = sessionmaker(bind=engine, autoflush=False, autocommit=False)",
+        "detail": "api_gateway.database",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_URL",
+        "kind": 5,
+        "importPath": "api_gateway.database",
+        "description": "api_gateway.database",
+        "peekOfCode": "DATABASE_URL = f\"postgresql://{POSTGRES_USER}:{POSTGRES_PASSWORD}@{POSTGRES_HOST}:{POSTGRES_PORT}/{POSTGRES_DB}\"\nengine = create_engine(DATABASE_URL)\nSessionLocal = sessionmaker(bind=engine, autoflush=False, autocommit=False)",
+        "detail": "api_gateway.database",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "api_gateway.database",
+        "description": "api_gateway.database",
+        "peekOfCode": "engine = create_engine(DATABASE_URL)\nSessionLocal = sessionmaker(bind=engine, autoflush=False, autocommit=False)",
+        "detail": "api_gateway.database",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "kind": 5,
+        "importPath": "api_gateway.database",
+        "description": "api_gateway.database",
+        "peekOfCode": "SessionLocal = sessionmaker(bind=engine, autoflush=False, autocommit=False)",
+        "detail": "api_gateway.database",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "api_gateway.main",
+        "description": "api_gateway.main",
+        "peekOfCode": "app = FastAPI(title=\"API Gateway\")\n# Read CORS settings and Keycloak URL from environment variables\nallowed_origins = os.environ.get(\"CORS_ALLOWED_ORIGINS\", \"*\").split(\",\")\nkeycloak_url = os.environ.get(\"KEYCLOAK_URL\", \"http://keycloak:8180/realms/missan/protocol/openid-connect\")\n# Setup CORS middleware\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=allowed_origins,\n    allow_credentials=True,\n    allow_methods=[\"*\"],",
+        "detail": "api_gateway.main",
+        "documentation": {}
+    },
+    {
+        "label": "allowed_origins",
+        "kind": 5,
+        "importPath": "api_gateway.main",
+        "description": "api_gateway.main",
+        "peekOfCode": "allowed_origins = os.environ.get(\"CORS_ALLOWED_ORIGINS\", \"*\").split(\",\")\nkeycloak_url = os.environ.get(\"KEYCLOAK_URL\", \"http://keycloak:8180/realms/missan/protocol/openid-connect\")\n# Setup CORS middleware\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=allowed_origins,\n    allow_credentials=True,\n    allow_methods=[\"*\"],\n    allow_headers=[\"*\"],\n)",
+        "detail": "api_gateway.main",
+        "documentation": {}
+    },
+    {
+        "label": "keycloak_url",
+        "kind": 5,
+        "importPath": "api_gateway.main",
+        "description": "api_gateway.main",
+        "peekOfCode": "keycloak_url = os.environ.get(\"KEYCLOAK_URL\", \"http://keycloak:8180/realms/missan/protocol/openid-connect\")\n# Setup CORS middleware\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=allowed_origins,\n    allow_credentials=True,\n    allow_methods=[\"*\"],\n    allow_headers=[\"*\"],\n)\n# Set up OAuth2 with token URL",
+        "detail": "api_gateway.main",
+        "documentation": {}
+    },
+    {
+        "label": "oauth2_scheme",
+        "kind": 5,
+        "importPath": "api_gateway.main",
+        "description": "api_gateway.main",
+        "peekOfCode": "oauth2_scheme = OAuth2PasswordBearer(tokenUrl=f\"{keycloak_url}/token\")\n# Token verification with Keycloak\nasync def verify_token(token: str = Depends(oauth2_scheme)):\n    async with httpx.AsyncClient() as client:\n        response = await client.get(\n            f\"{keycloak_url}/userinfo\",\n            headers={\"Authorization\": f\"Bearer {token}\"}\n        )\n    if response.status_code != 200:\n        raise HTTPException(status_code=401, detail=\"Invalid token or unauthorized\")",
+        "detail": "api_gateway.main",
+        "documentation": {}
+    },
+    {
+        "label": "Call",
+        "kind": 6,
+        "importPath": "api_gateway.models",
+        "description": "api_gateway.models",
+        "peekOfCode": "class Call(Base):\n    __tablename__ = \"calls\"\n    id = Column(String, primary_key=True, default=lambda: str(uuid.uuid4()))\n    caller = Column(String, nullable=False)\n    receiver = Column(String, nullable=False)\n    timestamp = Column(DateTime, default=datetime.utcnow)\n    duration = Column(Integer, nullable=False)",
+        "detail": "api_gateway.models",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "api_gateway.models",
+        "description": "api_gateway.models",
+        "peekOfCode": "Base = declarative_base()\nclass Call(Base):\n    __tablename__ = \"calls\"\n    id = Column(String, primary_key=True, default=lambda: str(uuid.uuid4()))\n    caller = Column(String, nullable=False)\n    receiver = Column(String, nullable=False)\n    timestamp = Column(DateTime, default=datetime.utcnow)\n    duration = Column(Integer, nullable=False)",
+        "detail": "api_gateway.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "services.user_service.main",
+        "description": "services.user_service.main",
+        "peekOfCode": "class User(BaseModel):\n    username: str\n    email: str\n    full_name: str\n# 🆕 Token generation endpoint using Keycloak\n@app.post(\"/token\")\nasync def login(username: str = Form(...), password: str = Form(...)):\n    url = f\"{KEYCLOAK_URL}/token\"\n    data = {\n        \"grant_type\": \"password\",",
+        "detail": "services.user_service.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "services.user_service.main",
+        "description": "services.user_service.main",
+        "peekOfCode": "app = FastAPI()\n# Keycloak configuration\nKEYCLOAK_URL = \"http://localhost:8180/realms/myrealm/protocol/openid-connect\"\nKEYCLOAK_CLIENT_ID = \"myclient\"\nKEYCLOAK_CLIENT_SECRET = \"myclient-secret\"\n# FastAPI dependency to extract token\noauth2_scheme = OAuth2PasswordBearer(tokenUrl=\"/token\")\n# Utility to verify token via Keycloak userinfo endpoint\nasync def verify_token(token: str):\n    url = f\"{KEYCLOAK_URL}/userinfo\"",
+        "detail": "services.user_service.main",
+        "documentation": {}
+    },
+    {
+        "label": "KEYCLOAK_URL",
+        "kind": 5,
+        "importPath": "services.user_service.main",
+        "description": "services.user_service.main",
+        "peekOfCode": "KEYCLOAK_URL = \"http://localhost:8180/realms/myrealm/protocol/openid-connect\"\nKEYCLOAK_CLIENT_ID = \"myclient\"\nKEYCLOAK_CLIENT_SECRET = \"myclient-secret\"\n# FastAPI dependency to extract token\noauth2_scheme = OAuth2PasswordBearer(tokenUrl=\"/token\")\n# Utility to verify token via Keycloak userinfo endpoint\nasync def verify_token(token: str):\n    url = f\"{KEYCLOAK_URL}/userinfo\"\n    headers = {\n        \"Authorization\": f\"Bearer {token}\"",
+        "detail": "services.user_service.main",
+        "documentation": {}
+    },
+    {
+        "label": "KEYCLOAK_CLIENT_ID",
+        "kind": 5,
+        "importPath": "services.user_service.main",
+        "description": "services.user_service.main",
+        "peekOfCode": "KEYCLOAK_CLIENT_ID = \"myclient\"\nKEYCLOAK_CLIENT_SECRET = \"myclient-secret\"\n# FastAPI dependency to extract token\noauth2_scheme = OAuth2PasswordBearer(tokenUrl=\"/token\")\n# Utility to verify token via Keycloak userinfo endpoint\nasync def verify_token(token: str):\n    url = f\"{KEYCLOAK_URL}/userinfo\"\n    headers = {\n        \"Authorization\": f\"Bearer {token}\"\n    }",
+        "detail": "services.user_service.main",
+        "documentation": {}
+    },
+    {
+        "label": "KEYCLOAK_CLIENT_SECRET",
+        "kind": 5,
+        "importPath": "services.user_service.main",
+        "description": "services.user_service.main",
+        "peekOfCode": "KEYCLOAK_CLIENT_SECRET = \"myclient-secret\"\n# FastAPI dependency to extract token\noauth2_scheme = OAuth2PasswordBearer(tokenUrl=\"/token\")\n# Utility to verify token via Keycloak userinfo endpoint\nasync def verify_token(token: str):\n    url = f\"{KEYCLOAK_URL}/userinfo\"\n    headers = {\n        \"Authorization\": f\"Bearer {token}\"\n    }\n    async with httpx.AsyncClient() as client:",
+        "detail": "services.user_service.main",
+        "documentation": {}
+    },
+    {
+        "label": "oauth2_scheme",
+        "kind": 5,
+        "importPath": "services.user_service.main",
+        "description": "services.user_service.main",
+        "peekOfCode": "oauth2_scheme = OAuth2PasswordBearer(tokenUrl=\"/token\")\n# Utility to verify token via Keycloak userinfo endpoint\nasync def verify_token(token: str):\n    url = f\"{KEYCLOAK_URL}/userinfo\"\n    headers = {\n        \"Authorization\": f\"Bearer {token}\"\n    }\n    async with httpx.AsyncClient() as client:\n        response = await client.get(url, headers=headers)\n    if response.status_code != 200:",
+        "detail": "services.user_service.main",
+        "documentation": {}
+    }
+]

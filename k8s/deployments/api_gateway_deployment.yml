@@ -1,0 +1,27 @@
+# Update your deployment YAML to explicitly use the full image path
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: api-gateway
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: api-gateway
+  template:
+    metadata:
+      labels:
+        app: api-gateway
+    spec:
+      containers:
+      - name: api-gateway
+        # This is the critical line - use the exact path shown in containerd
+        image: api-gateway:latest
+        imagePullPolicy: Never # ⚠️ Required when using local images in K3s
+        ports:
+        - containerPort: 8000
+        env:
+        - name: CORS_ALLOWED_ORIGINS
+          value: "*"
+        - name: KEYCLOAK_URL
+          value: "http://keycloak:8180/realms/missan/protocol/openid-connect"
